@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.27004.2005
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Conways", "Conways\Conways.csproj", "{64FDBE64-ABA0-479E-85B2-BEBF87A712C7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConwaysTest", "ConwaysTest\ConwaysTest.csproj", "{F4590D0F-96CE-466E-850D-79AD28467B51}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{64FDBE64-ABA0-479E-85B2-BEBF87A712C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{64FDBE64-ABA0-479E-85B2-BEBF87A712C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{64FDBE64-ABA0-479E-85B2-BEBF87A712C7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F4590D0F-96CE-466E-850D-79AD28467B51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4590D0F-96CE-466E-850D-79AD28467B51}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4590D0F-96CE-466E-850D-79AD28467B51}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4590D0F-96CE-466E-850D-79AD28467B51}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
